@@ -13,3 +13,8 @@
 	url = https://github.com/jabiru/csvread
 	shallow = true
 	registered = true
+[submodule "tictoc"]
+	path = tictoc
+	url = https://github.com/jabiru/tictoc
+	shallow = true
+	registered = true

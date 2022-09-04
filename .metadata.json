@@ -6,5 +6,9 @@
   {
     "package": "csvread",
     "oncran": true
+  },
+  {
+    "package": "tictoc",
+    "oncran": true
   }
 ]

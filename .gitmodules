@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tictoc"]
+	path = tictoc
+	url = https://github.com/jabiru/tictoc
+	shallow = true
+	registered = true
 [submodule "binr"]
 	path = binr
 	url = https://github.com/jabiru/binr
@@ -11,10 +16,5 @@
 [submodule "csvread"]
 	path = csvread
 	url = https://github.com/jabiru/csvread
-	shallow = true
-	registered = true
-[submodule "tictoc"]
-	path = tictoc
-	url = https://github.com/jabiru/tictoc
 	shallow = true
 	registered = true

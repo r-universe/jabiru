@@ -1,14 +1,14 @@
 [
   {
+    "package": "tictoc",
+    "oncran": true
+  },
+  {
     "package": "binr",
     "oncran": true
   },
   {
     "package": "csvread",
-    "oncran": true
-  },
-  {
-    "package": "tictoc",
     "oncran": true
   }
 ]
